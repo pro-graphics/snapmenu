@@ -1,0 +1,28 @@
+{
+  "name": "snapmenu",
+  "version": "0.0.0",
+  "homepage": "https://github.com/pro-graphics/snapmenu",
+  "authors": [
+    "Gary Chamberlain <gary@pro.graphics>"
+  ],
+  "description": "Menu element with draggable nodes",
+  "main": "README.md",
+  "keywords": [
+    "web",
+    "components",
+    "html5",
+    "menu",
+    "tree",
+    "drag",
+    "draggable",
+    "touch",
+    "mouse"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
